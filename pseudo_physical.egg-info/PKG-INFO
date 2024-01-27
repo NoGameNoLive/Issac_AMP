@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pseudo-physical
+Version: 1.0
+Author: Endy_Liu
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6, 3.7, 3.8
+Requires-Python: >=3.6
